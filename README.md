@@ -1,9 +1,6 @@
-# Django & Angular Multiple File Upload Example
+# Demo1
 
-For more information, read: [Multiple File Image/Upload with Django, Angular 7 & FormData](https://www.techiediaries.com/angular-django-formdata-multiple-file-upload-tutorial/)
-
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
 ## Development server
 
